@@ -1,0 +1,308 @@
+,Rock Climbing Gym Name,State,City,Sq Ft,Rope Climbing,Website,Day pass price,Monthly Membership,Gym Rating,Number of Ratings
+0,YMCA Camp Cosby Alpine Tower,Alabama,Alpine,NA,,,,,,
+1,Auburn Univeristy Climbing Wall,Alabama,Auburn,6200,,,,,,
+2,University of Alabama at Birmingham,Alabama,Birmingham,2000,,,,,,
+3,Birmingham Boulders,Alabama,Birmingham,10000,,,,,,
+4,High Point Climbing and Fitness,Alabama,Birmingham,NA,,,,,,
+5,Fort-Rucker Physical Fitness Center,Alabama,Fort Rucker,3000,,,,,,
+6,Insanity Complex,Alabama,Madison,NA,,,,,,
+7,University of South Alabama Rockwall,Alabama,Mobile,2275,,,,,,
+8,AUM Wellness Center Climbing Wall,Alabama,Montgomery,NA,,,,,,
+9,Faucett Brothers Activity Center,Alabama,Northport,NA,,,,,,
+10,University of Alabama Climbing Wall,Alabama,Tuscaloosa,NA,,,,,,
+11,Alaska Rock Gym,Alaska,Anchorage,NA,,,,,,
+12,Alaska Pacific University Climbing Wall,Alaska,Anchorage,NA,,,,,,
+13,Ascension Rock Club,Alaska,Fairbanks,4900,,,,,,
+14,The Rock Dump,Alaska,Juneau,11000,,,,,,
+15,University of Alaska Southeast,Alaska,Juneau,NA,,,,,,
+16,Skagway Recreation Center,Alaska,Skagway,1700,,,,,,
+17,Beta Bouldering Gym,Arizona,Flagstaff,4500,,,,,,
+18,Flagstaff Climbing,Arizona,Flagstaff,9000,,,,,,
+19,Focus Climbing Center,Arizona,Mesa,NA,,,,,,
+20,Ape Index Climbing Gym,Arizona,Peoria,NA,,,,,,
+21,Black Rock Bouldering Gym,Arizona,Phoenix,NA,,,,,,
+22,AZ on the Rocks,Arizona,Scottsdale,NA,,,,,,
+23,Ciba Climbing,Arizona,Sierra Vista,NA,,,,,,
+24,Climbmax Climbing Gym,Arizona,Tempe,NA,,,,,,
+25,Phoenix Rock Gym,Arizona,Tempe,17000,,,,,,
+26,Rocks and Ropes Downtown,Arizona,Tucson,20000,,,,,,
+27,University of Arkansas Climbing Facilities,Arkansas,Fayetteville,2000,,,,,,
+28,Climb Fayetteville,Arkansas,Fayetteville,NA,,,,,,
+29,Arkansas State University Climbing Wall,Arkansas,Jonesboro,600,Yes,,,,,
+30,Little Rock Climbing Center,Arkansas,Little Rock,5000,Yes,https://www.littlerockclimbingcenter.com/,5,,,
+31,Ozark Climbing Gym,Arkansas,Springdale,NA,No,https://www.ozarkclimbing.com/home,12,45,,
+32,Zion Climbing Center,Arkansas,Searcy,NA,Yes,https://www.zionclimbingcenter.com/visit-us/,10,75,,
+33,Bladium Sports & Fitness Club,California,Alameda,5000,Yes,https://www.bladiumalameda.com/fitness/fitness-memberships-specials/specialty-fitness-programs/rock-climbing/,15,NA,4.2,
+34,Agoura Hills/Calabasas Community Center,California,Agoura Hills,NA,Yes,http://www.ahc3.org/,9,32,4.2,
+35,"The Rock at California State University, Bakersfield",California,Bakersfield,3400,Yes,https://www.csub.edu/reccenter/The%20Rock/,NA,NA,4.7,
+36,Berkeley Ironworks,California,Berkeley,14000,Yes,https://touchstoneclimbing.com/ironworks/,30,87,4.6,
+37,Verdigo Boulders,California,Burbank,7000,No,https://touchstoneclimbing.com/verdigo-boulders/,30,87,4.7,
+38,VITAL Carlsbad,California,Carlsbad,NA,No,https://www.vitalclimbinggym.com/carlsbad/,17,70,4.9,
+39,Boulderdash San Fernando Valley,California,Chatsworth,13000,Yes,https://www.boulderdashclimbing.com/sfv/,20,75,4.6,
+40,Diablo Rock Gym,California,Concord,11000,Yes,https://touchstoneclimbing.com/diablorock/,30,87,4.6,
+41,ROCKTOPIA,California,Concord,NA,Yes,http://dscreationencoregym.homestead.com/Climbing2016.html,12,NA,NA,
+42,Rockreation Costa Mesa,California,Costa Mesa,12000,Yes,https://rockreation-cm.com/,20,77,4.7,
+43,Cliffs of Id,California,Culver City,27000,Yes,https://touchstoneclimbing.com/cliffs-of-id/,30,87,4.7,
+44,Rocknasium,California,Davis,5500,Yes,https://www.rocknasium.com/about-us/,16,NA,4.9,
+45,"University of California, Davis Climbing Wall",California,Davis,NA,Yes,https://campusrecreation.ucdavis.edu/outdoor-adventures/arc-rock-wall,20,NA,4.2,
+46,Bridges Rock Gym,California,El Cerrito,NA,Yes,https://www.bridgesrockgym.com/pricing,22,75,4.8,
+47,The Peak of Fremont,California,Fremont,16500,Yes,https://thepeakoffremont.com/,25,NA,4.7,
+48,MetalMark,California,Fresno,13000,Yes,https://touchstoneclimbing.com/metalmark/,30,87,4.9,
+49,Hangar 18 South Bay,California,Hawthorne,12000,Yes,https://climbhangar18.com/south-bay/,18,54,4.3,
+50,ClimbX,California,Huntington Beach,NA,Yes,http://www.climbxhb.com/,15,40,3.8,
+51,Aesthetic Climbing Gym,California,Lake Forest,13000,Yes,https://aestheticclimbinggym.com/,25,125,4.7,
+52,LA Boulders,California,Los Angeles,11500,No,https://touchstoneclimbing.com/la-boulders/,30,87,4.8,
+53,Hollywood Boulders,California,Los Angeles,11000,No,https://touchstoneclimbing.com/hollywood-boulders/,30,87,4.8,
+54,Rockreation Los Angeles,California,Los Angeles,10000,Yes,https://rockreation-la.com/,20,50,4.5,
+55,The Stronghold Climbing Gym,California,Los Angeles,NA,Yes,https://strongholdclimb.com/,25,84,4.7,
+56,Sender One LAX,California,Los Angeles,NA,Yes,https://www.senderoneclimbing.com/,29,92,4.8,
+57,Hangar 18 Mission Viejo,California,Mission Viejo,7000,No,https://climbhangar18.com/mission-viejo/,22,54,4.4,
+58,Stonehenge Indoor Climbing Gym,California,Modesto,NA,Yes,http://www.climbstonehenge.com/index.html,25,50,4.7,
+59,VITAL Murrieta,California,Murrieta,NA,No,https://www.vitalclimbinggym.com/murrieta/,14,50,4.9,
+60,Great Western Power Company,California,Oakland,11000,Yes,https://touchstoneclimbing.com/gwpower-co/,30,87,4.6,
+61,VITAL Oceanside,California,Oceanside,NA,No,https://www.vitalclimbinggym.com/oceanside/,20,70,4.8,
+62,Granite Arch Climbing Center,California,Rancho Cordova,20000,Yes,http://granitearch.com/,15,61,4.7,
+63,Top Out Climbing Gym,California,Santa Clarita,11500,Yes,https://www.topoutclimbing.com/about,22,80,4.9,
+64,Hanger 18 Long Beach,California,Signal Hill,12000,Yes,https://climbhangar18.com/long-beach/,18,54,4.4,
+65,Hanger 18 Upland,California,Upland,12000,Yes,https://climbhangar18.com/upland/,18,54,4.5,
+66,Pacific Edge Climbing Gym,California,Santa Cruz,11000,Yes,https://pacificedgeclimbinggym.com/,20,65,4.7,
+67,Rock Fitness Climbing Gym,California,Wildomar,NA,No,https://www.rockfitnessgym.com/,18,60,4.2,
+68,Hangar 18 Riverside,California,Riverside,13000,Yes,https://climbhangar18.com/riverside/,18,54,4.7,
+69,Hangar 18 Rancho Cucam,California,Rancho Cucamonga,NA,Yes,https://climbhangar18.com/rancho-cucamonga/,18,54,4.6,
+70,Hangar 18 Arcadia,California,Arcadia,10000,Yes,https://climbhangar18.com/arcadia/,18,54,4.6,
+71,Sacramento Pipeworks Climbing,California,Sacramento,14000,Yes,https://touchstoneclimbing.com/pipeworks/,30,87,4.8,
+72,Hangar 18 East Riverside,California,Riverside,NA,Yes,https://climbhangar18.com/east-riverside/,18,54,4.7,
+73,Hangar 18 San Clemente,California,San Clemente,NA,Yes,https://climbhangar18.com/san-clemente/,18,54,4.4,
+74,Boulderdash Thousand Oaks,California,Westlake Village,10000,Yes,https://www.boulderdashclimbing.com/to/,20,75,4.6,
+75,Boulderdash Ventura,California,Ventura,10000,Yes,https://www.boulderdashclimbing.com/v/,20,75,4.5,
+76,The Boulder Field,California,Sacramento,10000,No,https://www.theboulderfield.com/,20,78,4.9,
+77,Far North Climbing Gym,California,Arcata,8000,No,https://farnortharcata.com/,20,75,4.5,
+78,Hanger 18 High Desert,California,Victorville,7000,Yes,https://climbhangar18.com/high-desert/,18,54,4.8,
+79,The Studio Climbing,California,San Jose,11000,Yes,https://touchstoneclimbing.com/the-studio/,30,87,4.5,
+80,Terrain Park Climbing Center,California,Chico,2200,No,https://www.terrainparkclimbingcenter.com/,15,60,4.9,
+81,Planet Granite Sunnyvale,California,Sunnyvale,2800,Yes,https://el-cap.com/planetgranite-sunnyvale/,28,98,4.5,
+82,Santa Barbara Rock Gym,California,Santa Barbara,NA,Yes,https://www.sbrockgym.com/,17,65,4.6,
+83,Shasta Rock Club,California,Redding,NA,No,https://www.shastarockclub.com/,16.5,65,4.8,
+84,Planet Granite Fountain Valley,California,Fountain Valley,30000,No,https://el-cap.com/planetgranite-fountain-valley/,28,98,4.8,
+85,Blue Granite Climbing Gym,California,South Lake Tahoe,NA,Yes,https://bluegraniteclimbing.com/,20,65,4.9,
+86,Planet Granite San Francisco,California,San Francisco,25000,Yes,https://el-cap.com/planetgranite-san-francisco/?redirected=1,28,98,4.7,
+87,Long Beach Rising,California,Long Beach,NA,No,https://www.longbeachrising.com/,20,42,4.8,
+88,Rockzilla,California,Napa,8000,Yes,https://www.climbrockzilla.rocks/,22,65,4.9,
+89,Flowstone Climbing,California,Redlands,4500,No,https://www.flowstoneclimbing.com/,25,65,4.9,
+90,Hangar 18 Orange,California,Orange,9000,No,https://climbhangar18.com/orange/,18,54,4.8,
+91,Vertex Climbing Center,California,Santa Rosa,NA,No,https://www.climbvertex.com/,20,74,4.6,
+92,Planet Granite Belmont,California,Belmont,19000,Yes,https://el-cap.com/planetgranite-belmont/?redirected=1,28,98,4.4,
+93,Sanctuary Climbing and Fitness,California,Seaside,1000,Yes,https://www.rockgym.com/,25,75,4.6,
+94,Pacific Pipe Climbing Gym,California,Oakland,46000,Yes,https://touchstoneclimbing.com/pacific-pipe/,30,87,5,
+95,Dogpatch Boulders,California,San Francisco,20500,No,https://touchstoneclimbing.com/dogpatch-boulders/,30,87,4.8,
+96,Sender One Santa Ana,California,Santa Ana,NA,Yes,https://www.senderoneclimbing.com/sna/,29,59,4.6,
+97,Mesa Rim Climbing Center,California,San Diego,NA,Yes,https://mesarim.com/miramesa/,26,93,4.7,
+98,Oaktown Boulders,California,Oakland,NA,NA,https://www.oaktownboulders.com/home,NA,NA,4.9,
+99,Grotto Climbing and Yoga,California,San Diego,9000,No,https://www.grottoclimbing.com/,30,85,4.8,
+100,Planite Granite Santa Clara,California,Santa Clara,10000,No,https://el-cap.com/planetgranite-santa-clara/?redirected=1,28,98,5,
+101,Mission Cliffs,California,San Francisco,23000,Yes,https://touchstoneclimbing.com/mission-cliffs/,30,87,4.6,
+102,Gold Rush Climbing Gym,California,Grass Valley,NA,NA,https://goldcrushclimbing.com/,15,65,4.7,
+103,Vertical Hold,California,San Diego,NA,Yes,https://www.verticalhold.com/,22,66,4.5,
+104,Mesa Rim Climbing Center Mission Valley,California,San Diego,NA,Yes,https://mesarim.com/missionvalley/,26,93,4.7,
+105,Class 5 Fitness,California,Sonora,3500,Yes,http://www.24-7at5.com/climbing-wall/,NA,NA,4.7,
+106,UCSD Outback Climbing Center,California,San Diego,NA,No,https://recreation.ucsd.edu/adventures/climbing-center/,NA,NA,4.5,
+107,Alpine Climbing Adventure Fitness,California,Ripon,16500,Yes,https://climbatalpine.com/,25,89,4.9,
+108,Vertical Hold,California,Poway,NA,Yes,https://www.verticalhold.com/,22,66,4.6,
+109,Vertical Hold,California,San Marcos,NA,Yes,https://www.verticalhold.com/,22,66,4.6,
+110,Mesa Rim Climbing Center North City,California,San Diego,NA,Yes,https://mesarim.com/northcity/,26,93,4.9,
+111,The Pad Climbing,California,San Luis Obispo,NA,Yes,https://thepadclimbing.org/first-time/,23,85,4.5,
+112,Agility Boulders,California,Capitola,NA,No,https://www.agilityboulders.com/,25,75,4.6,
+113,Pure Climbing Gym,Colorado,Colorado Springs,NA,No,https://pureboulderinggym.com/,14,45,4.8,
+114,CityRock,Colorado,Colorado Springs,NA,Yes,https://www.climbcityrock.com/about-us,20,72,4.7,
+115,Springs Climbing Center,Colorado,Colorado Springs,NA,Yes,http://springsclimbingcenter.com/#springs-climbing-center,20,60,4.8,
+116,Gripstone Climbing and Fitness,Colorado,Colorado Springs,NA,Yes,https://gripstonecs.com/,20,79,4.7,
+117,The Spot Climbing Gym,Colorado,Louisville,NA,Yes,https://www.thespotgym.com/louisville,25,95,4.8,
+118,The Spot Climbing Gym Boulder,Colorado,Boulder,NA,No,https://www.thespotgym.com/boulder,25,95,4.8,
+119,Summit Climbing Gym,Colorado,Silverthorne,NA,Yes,https://www.summitclimbing.org/membership-info,20,70,4.7,
+120,Movement Climbing and Fitness Denver,Colorado,Denver,NA,Yes,https://el-cap.com/movement-baker/,28,98,4,
+121,G1 Climbing and Fitness,Colorado,Broomfield,25000,Yes,https://g1climbing.com/,25,79,4.8,
+122,Denver Bouldering Club,Colorado,Denver,15000,No,https://denverboulderingclub.com/,19,64,4.8,
+123,The Spot Bouldering Gym Denver,Colorado,Denver,NA,No,https://www.thespotgym.com/denver,25,95,4.8,
+124,Ubergrippen Indoor Climbing Crag,Colorado,Denver,12000,Yes,https://ugclimbing.com/denver/,25,90,4.6,
+125,Wooden Mountain Climbing Gym,Colorado,Loveland,NA,No,https://www.woodenmountain.com/,15,58,5,
+126,Boulder Rock Club,Colorado,Boulder,10000,Yes,https://boulderrockclub.com/,22,76,4.8,
+127,Earth Trex Englewood,Colorado,Englewood,NA,Yes,https://el-cap.com/earthtreks-englewood/?redirected=1,22,82,4.7,
+128,Longmont Climbing Collective,Colorado,Longmont,15000,No,https://www.longmontclimbingcollective.com/,20,72,4.8,
+129,Earth Trex Golden,Colorado,Golden,NA,Yes,https://el-cap.com/earthtreks-golden/,22,82,4.7,
+130,Rock'n and Jam'n 2,Colorado,Centennial,NA,Yes,https://climbthebest.com/,18,84,4.7,
+131,Denver Bouldering Club South,Colorado,Sheridan,15000,No,https://denverboulderingclub.com/,19,64,4.7,
+132,Ascent Studio Climbing and Fitness,Colorado,Fort Colins,NA,Yes,https://ascentstudio.com/,18,75,4.6,
+133,Rock'n and Jam'n 1,Colorado,Thronton,NA,Yes,https://climbthebest.com/,18,84,4.7,
+134,ABC Kids Climbing,Colorado,Boulder,7200,No,https://www.abckidsboulder.com/the-gym/,NA,NA,4.8,
+135,Epic Climbing Gym,Colorado,Estes Park,4500,Yes,https://www.estesparkmountainshop.com/indoor-climbing-gym,20,NA,4.3,
+136,Movement Climbing and Fitness Rino,Colorado,Denver,40000,No,https://el-cap.com/movement-rino/,28,98,4.7,
+137,Eagle Climbing and Fitness,Colorado,Eagle,NA,Yes,https://eagleclimbing.com/,20,85,4.9,
+138,Grand Valley Climbing,Colorado,Grand Junction,NA,Yes,https://grandvalleyclimbing.com/,20,75,3.9,
+139,Whetstone Climbing,Colorado,Fort Colins,20000,Yes,https://whetstoneclimbing.com/,20,79,4.9,
+140,LCA Climbing Center,Colorado,Steamboat Springs,NA,No,http://loveclimbing.co/,20,60,4.3,
+141,Monkey House Carbondale,Colorado,Carbondale,NA,No,https://www.monkeyhousecarbondale.com/,20,85,4.9,
+142,Denver Boulder Club North,Colorado,Thronton,15000,No,https://denverboulderingclub.com/,19,64,4.9,
+143,Central Rock Gym,Connecticut,Glastonbury,23000,Yes,https://centralrockgym.com/glastonbury/,25,89,4.8,
+144,Stone Age Rock Gym,Connecticut,Manchester,NA,Yes,https://www.stoneagerockgym.com/,22,75,4.9,
+145,Rock Climb Fairfield,Connecticut,Fairfield,NA,Yes,https://www.rockclimbfairfield.com/,25,NA,4.8,
+146,City Climb Gym,Connecticut,New Haven,NA,Yes,http://www.cityclimbgym.com/,16,58,4.7,
+147,Prime Climb,Connecticut,Wallingford,NA,Yes,https://www.primeclimb.com/,16,65,4.6,
+148,Beta Climbing and Fitness,Connecticut,Stamford,20000,Yes,https://www.betarocks.com/,26,99,4.8,
+149,Delaware Rock Gym,Delaware,Bear,NA,Yes,https://www.derockgym.com/,16,55,4.8,
+150,Rock Out Climbing Gym,Florida,Destin,NA,No,https://www.rockoutclimbing.com/,20,80,4.8,
+151,The Edge Rock Gym and Fitness,Florida,Melbourne,NA,Yes,https://ontheedgerockclimbing.com/,15,50,4.8,
+152,The Edge Rock Gym,Florida,Jacksonville,NA,Yes,https://theedgerockgym.com/jacksonville/,19,76,4.7,
+153,ProjectRock,Florida,Oakland Park,NA,Yes,https://projectrock.com/,19,63,4.7,
+154,Beaches Rock Gym,Florida,Atlantic Beach,NA,No,https://www.beachesrockgym.com/,17,59,4.9,
+155,The Edge Rock Gym,Florida,Miami,14000,Yes,https://theedgerockgymmiami.com/,19,76,4.6,
+156,Aiguille Rock Climbing Center,Florida,Longwood ,NA,Yes,https://www.aiguille.com/,15,50,4.6,407
+157,Coral Cliffs Rock Climbing Center,Florida,Fort Lauderdale,NA,Yes,http://www.coralcliffs.com/,19,62,4.1,102
+158,UWF Climbing Center,Florida,Pensacola,NA,No,NA,NA,NA,5,3
+159,The Knot,Florida,Gainesville,NA,Yes,https://climbtheknot.com/,NA,65,4.9,30
+160,Vertical Ventures,Florida,St. Petersburg,NA,Yes,NA,NA,NA,4.7,585
+161,DynoClimb,Florida,DeLand,NA,No,https://www.dynoclimb.com/,18,55,5,359
+162,Stone Climbing,Florida,St. Augustine,NA,Yes,https://stoneclimbing.com/facility,NA,80,NA,NA
+163,Alchemy Climbing,Florida,Tallahassee,NA,Yes,https://www.alchemyclimbing.com,18,70,4.7,21
+164,Daytona Climbing Company,Florida,South Daytona,NA,Yes,https://www.daytonaclimbingcompany.com/,15,43,4.9,34
+165,Adventure HQ,Florida,Palm Shores,33000,Yes,https://adventurehqfl.com/,18,68,4.8,248
+166,Weatherford's Climbing Wall,Florida,Pensacola,NA,Yes,http://weatherfords.net/rockwalls.html,15,NA,3.9,75
+167,Bouldering Wall,Florida,Paisley,NA,No,NA,NA,NA,4,5
+168,Cornerstone Rock Gym,Florida,Glen St Mary,6000,Yes,https://cornerstonerockgym.com/,14,42,4.9,31
+169,Blue Swan Boulders,Florida,Orlando,7000,No,https://blueswanboulders.com/,17,65,4.9,84
+170,Adrenaline Climbing,Georgia,Suwanee,NA,Yes,https://www.adrenalineclimbing.com/,14,NA,4.4,175
+171,Active Climbing - Athens,Georgia,Athens,NA,No,https://www.activeclimbing.com,16,NA,4.8,137
+172,Active Climbing - Augusta,Georgia,Augusta,NA,No,https://www.activeclimbing.com,16,NA,NA,NA
+173,Wall Crawler Rock Club,Georgia,Atlanta,8800,Yes,http://www.wallcrawlerclimbing.com/,NA,79,4.7,124
+174,Stone Summit Climbing Atlanta,Georgia,Atlanta,NA,Yes,https://www.ssclimbing.com/stone-summit-atlanta/,25,60,4.6,377
+175,Macon Rocks Climbing Gym,Georgia,Macon,NA,Yes,https://www.maconrocks.com/,17,65,4.6,21
+176,Stone Summit Climbing,Georgia,Kennesaw,NA,Yes,https://www.ssclimbing.com/stone-summit-kennesaw/,25,60,4.8,560
+177,Treadstone Columbus,Georgia,Columbus,NA,Yes,https://www.treadstoneclimbing.com/,20,70,4.7,152
+178,Escalade Rock Climbing PTC,Georgia,Peachtree City,NA,Yes,https://ptc.escaladegym.com/,15,45,4.6,38
+179,Escalade Rock Climbing Kennesaw,Georgia,Kennesaw,NA,Yes,https://www.escaladegym.com/home,15,45,4.8,119
+180,Active Climbing,Georgia,Grovetown,NA,Yes,https://www.activeclimbingaugusta.com/,17,90,4.8,79
+181,The Overlook Boulder + Fitness,Georgia,Atlanta,NA,No,https://overlookclimbing.com/,19,65,5,44
+182,Stone Summit Midtown,Georgia,Atlanta,NA,No,https://www.ssclimbing.com/stone-summit-midtown/,25,60,4.8,161
+183,The Rock  Fitness Rome,Georgia,Rome,NA,No,https://www.therockfitness247.com/rome,10,29,4.9,50
+184,HiClimb Rock Climbing Gym,Hawaii,Honolulu,14000,Yes,https://www.hawaiiclimb.com/,38,99,4.9,41
+185,Oahu Bouldering Gym,Hawaii,Honolulu,NA,No,https://www.oahubouldering.com/,19,71,4.7,15
+186,Ascension Community Climbing Gym,Hawaii,Pepeekeo,NA,NA,NA,NA,NA,3,1
+187,Big Island Climbing Indoor Adventure Center,Hawaii,Hilo,700,Yes,https://bigislandclimbing.com/,NA,NA,5,10
+188,EPIC Climbing and Fitness,Indiana,Indianapolis,18000,Yes,https://climbepic.com/,18,70,4.8,164
+189,Hoosier Heights Indianapolis,Indiana,Carmel,NA,Yes,https://www.hoosierheightsindianapolis.com/,18,64,4.6,316
+190,Climb Time Indy,Indiana,Indianapolis,NA,Yes,https://climbtimeindy.com/,12,40,4.6,260
+191,Climb Lafayette,Indiana,Lafayette,4000,Yes,https://www.climblafayette.com/,15,NA,4.9,162
+192,The CRUX at Camptown,Indiana,Indianapolis,1500,No,https://indycrux.com/,NA,NA,4.6,5
+193,Columbus Rock Gym,Indiana,Columbus,NA,Yes,https://www.columbusrockgym.com/,15,44,4.7,98
+194,North Mass Boulder,Indiana,Indianapolis,NA,No,https://www.northmassboulder.com/,18,75,4.9,57
+195,Hoosier Heights Bloomington,Indiana,Bloomington,NA,No,https://www.hoosierheightsbloomington.com/,18,64,4.7,263
+196,Vertical eXcape,Indiana,Evansville,NA,Yes,http://www.verticalexcape.com/evansville/,25,47.5,4.8,128
+197,Climb Iowa - East Village,Iowa,Des Moines,3000,No,https://climbiowa.com/east-village/,18,60,4.9,43
+198,Climb Iowa - Grimes,Iowa,Grimes,10000,Yes,https://climbiowa.com/grimes/,18,60,4.7,119
+199,Kansas Cliff Club,Kansas,Wichita,NA,Yes,https://www.kansascliffclub.org/,12,NA,4.3,33
+200,RoKC Olathe Climbing,Kansas,Olathe,NA,Yes,https://www.climbkc.com/olathe,18,85,4.9,99
+201,Apex Climbing Gym,Kansas,Overland Park,NA,No,https://apexclimbinggym.com/climbing.html,12,50,4.7,124
+202,Bliss Climbing and Fitness,Kansas,Wichita,NA,No,https://climbbliss.com/,17,90,4.8,185
+203,Monster Mountain,Kansas,Overland Park,5000,Yes,https://emeraldcitygym.com/monster-mountain-wall/,13,60,4.8,17
+204,Climb Lawrence,Kansas,Lawrence,NA,Yes,https://www.climblawrence.com/,18,80,5,21
+205,Rock Gem Climbing Center,Kentucky,Louisville,NA,Yes,https://rockgemclimbingcenter.com/,16,55,4.7,43
+206,LEF Climbing,Kentucky,Lexington,NA,Yes,https://www.lefclimbing.com/,25,75,4.8,217
+207,Climb NuLu,Kentucky,Louisville,NA,No,https://www.climbnulu.com/,12,64,4.7,263
+208,Vertical eXcape Bowling Green,Kentucky,Bowling Green,NA,Yes,http://www.verticalexcape.com/bowlinggreen/,25,47.5,4.8,108
+209,Rocksport,Kentucky,Louisville,10000,Yes,https://www.climbrocksport.org/,20,70,4.6,75
+210,CLYM,Kentucky,Somerset,NA,No,http://clymthecumberlands.com/,12,60,5,12
+211,L'Escalade Fitness,Kentucky,Lexington,NA,Yes,https://www.lefclimbing.com/,25,75,4.8,16
+212,Risen Rock Climbing Gym,Louisiana,Bossier City,10000,Yes,http://www.risenrockclimbing.com/,18,60,4.9,89
+213,Southern Stone Indoor Climbing,Louisiana,Lafayette,NA,Yes,https://www.climblaf.com/,16,49,4.8,81
+214,UpTown Climbing,Louisiana,Baton Rouge,NA,Yes,https://www.uptownclimbing.com/home-1,16,80,4.9,99
+215,318 Climb,Louisiana,Shreveport,NA,Yes,https://www.318climb.com/,16,55,4.6,131
+216,New Orleans Boulder Lounge,Louisiana,New Orleans,NA,No,https://www.climbnobl.com/,16,60,4.6,85
+217,Evo Rock & Fitness Portland,Maine,Portland,NA,Yes,https://www.evorock.com/portland-me/,NA,NA,4.8,68
+218,Salt Pump Climbing Company,Maine,Scarborough,10000,Yes,https://www.saltpumpclimbing.com/,20,75,4.9,81
+219,Indoor Ascent,Maine,Dover,9000,Yes,http://www.indoorascent.com/,14,50,4.6,84
+220,Maine Bound Adventure Center,Maine,Orono,NA,Yes,https://umaine.edu/mainebound/,NA,NA,4.8,44
+221,Earth Treks Columbia,Maryland,Columbia,27000,Yes,https://el-cap.com/earthtreks-columbia/?redirected=1,22,83,4.9,401
+222,Earth Treks Rockville,Maryland,Rockville,38000,Yes,https://el-cap.com/earthtreks-rockville/?redirected=1,25,93,4.8,309
+223,Earth Treks Timonium,Maryland,Lutherville-Timonium,NA,Yes,https://el-cap.com/earthtreks-timonium/?redirected=1,22,82,4.7,303
+224,The Boulder Yard,Maryland,Frederick,NA,No,https://www.theboulderyardmd.com/,20,75,4.7,87
+225,Earth Treks Hampden,Maryland,Baltimore,10000,No,https://el-cap.com/earthtreks-hampden/?redirected=1,22,82,4.9,190
+226,ClimbZone Laurel,Maryland,Laurel,NA,Yes,https://www.climbzone.us/laurel/,25,NA,4.6,1117
+227,Central Rock Gym Cambridge,Massachusetts,Cambridge,6000,No,https://centralrockgym.com/cambridge/,28,109,4.8,57
+228,Central Rock Gym Watertown,Massachusetts,Watertown,30000,Yes,http://www.centralrockgym.com/watertown,28,109,4.8,232
+229,Central Rock Gym Stoneham,Massachusetts,Stoneham,16000,Yes,https://centralrockgym.com/stoneham/,28,109,4.8,68
+230,Central Rock Gym Randolph,Massachusetts,Randolph,18000,Yes,https://centralrockgym.com/randolph/,28,109,4.8,183
+231,Central Rock Gym Hadley,Massachusetts,Hadley,24000,Yes,https://centralrockgym.com/hadley/,28,109,4.8,137
+232,Central Rock Gym Waltham,Massachusetts,Waltham,4000,No,https://centralrockgym.com/waltham/,28,109,4.9,42
+233,The El Dojo,Massachusetts,Northampton,NA,No,http://www.theeldojo.com/,NA,NA,5,3
+234,Central Rock Gym Worcester,Massachusetts,Worcester,16000,Yes,https://centralrockgym.com/worcester/,28,109,4.8,216
+235,Brooklyn Boulders Somerville,Massachusetts,Somerville,NA,Yes,https://brooklynboulders.com/somerville/,29,135,4.5,622
+236,Carabiner's Climbing and Fitness,Massachusetts,New Bedford,36600,Yes,http://carabiners.com/,20,59,4.8,204
+237,Rock Spot Climbing,Massachusetts,Boston,11000,Yes,https://southboston.rockspotclimbing.com/,24,120,4.7,323
+238,MetroRock Newburyport,Massachusetts,Newburyport,NA,Yes,https://nbpt.metrorock.com/,25,125,4.7,46
+239,MetroRock Climbing Center,Massachusetts,Everett,NA,Yes,https://metrorock.com/everett-home,25,125,4.8,88
+240,Central Rock Gym Boston,Massachusetts,Boston,5000,No,https://centralrockgym.com/boston/,28,109,4.8,51
+241,Challenge Rocks,Massachusetts,Hingham,NA,Yes,https://www.challengerocks.com/,NA,NA,4.6,117
+242,Rock Spot Climbing,Massachusetts,Boston,9000,Yes,https://boston.rockspotclimbing.com/,22,95,4.7,44
+243,La Vida Rock Gym,Massachusetts,Weham,NA,Yes,https://www.gordon.edu/rockgym,12,60,5,2
+244,MetroRock Littleton,Massachusetts,Littleton,NA,Yes,https://littleton.metrorock.com/,25,125,4.8,60
+245,Planet Rock Madison Heights,Michigan,Madison Heights,NA,Yes,https://planet-rock.com/,18,72,4.6,257
+246,Planet Rock Ann Arbor,Michigan,Ann Arbor,NA,Yes,https://planet-rock.com/,18,72,4.6,462
+247,Terra Firma Bouldering Co,Michigan,Grand Rapids,12000,No,https://www.climbterrafirma.com/,16,69,4.9,336
+248,Climb Kalamazoo,Michigan,Kalamazoo,NA,Yes,https://www.climbkalamazoo.org/,14,45,4.7,89
+249,Scrapyard Climbing Collective,Michigan,Holland,3200,Yes,https://scrapyardclimbing.com/,12,55,5,58
+250,Higher Ground Rock Climbing Centre,Michigan,Grand Rapids,NA,Yes,https://higround.com/,15,70,4.8,65
+251,DYNO Detroit Climbing,Michigan,Detroit,17000,Yes,https://www.dynodetroit.com/,20,79,4.9,101
+252,ELEV8 Climbing and Fitness,Michigan,Traverse City,NA,Yes,https://www.elev8climbing.com/,22,112,4.8,21
+253,Inside Moves LLC,Michigan,Byron Center,NA,Yes,http://www.insidemoves.com/,15,66,4.5,107
+254,Base Camp Climbing Gym,Michigan,Norway,NA,No,https://www.truenorthoutpost.com/2020-climbing-gym-page,30,175,5,4
+255,Minnesota Climbing Cooperative,Minnesota,Minneapolis,NA,No,https://www.mnclimbingcoop.com/,20,59,4.8,72
+256,Minneapolis Bouldering Project,Minnesota,Minneapolis,NA,No,https://minneapolisboulderingproject.com/,16,68,4.8,200
+257,Vertical Endeavors Minneapolis,Minnesota,Minneapolis,NA,Yes,https://www.verticalendeavors.com/visit-us/hours-locations/minneapolis-mn/,20,74,4.3,162
+258,Roca Climbing and Fitness,Minnesota,Rochester,NA,Yes,https://www.climbroca.com/,15,82,4.9,91
+259,Vertical Endeavors Bloomington,Minnesota,Bloomington,NA,Yes,https://www.verticalendeavors.com/visit-us/hours-locations/bloomington-mn/,20,74,4.5,175
+260,Vertical Endeavors Twin Cities Bouldering,Minnesota,St Paul,18000,No,https://www.verticalendeavors.com/visit-us/hours-locations/twin-cities-bouldering-4/,20,74,4.6,92
+261,Vertical Endeavors Duluth,Minnesota,Duluth,NA,Yes,https://www.verticalendeavors.com/visit-us/hours-locations/duluth-mn/,20,74,4.4,23
+262,The A,Minnesota,Minneapolis,NA,No,https://www.aclimbing.com/,NA,55,4.8,22
+263,Vertical Endeavors St Paul,Minnesota,St Paul,NA,Yes,https://www.verticalendeavors.com/visit-us/hours-locations/st-paul-mn/,20,74,4.6,116
+264,The Hangout,Mississippi,Ridgeland,NA,No,https://www.facebook.com/hangoutrockclimbing/,NA,NA,4,5
+265,Upper Limits Rock Climbing Gym Maryland Heights,Missouri,St. Louis,NA,Yes,https://upperlimits.com/maryland-heights/,20,64,4.9,300
+266,"ROKC Climbing, Yoga, and Fitness Gym",Missouri,North Kansas City,NA,Yes,https://www.climbkc.com/nkc,18,85,4.8,178
+267,Zenith Climbing Center,Missouri,Springfield,NA,Yes,https://zenithclimbing.com/,17,60,4.7,167
+268,Upper Limits Indoor Rock Climbing Gym Downtown,Missouri,St. Louis,NA,Yes,https://upperlimits.com/downtown/,18,74,4.9,247
+269,Climb So iLL at the Power Plant,Missouri,St. Louis,NA,Yes,https://stlouis.climbsoill.com/,18,78,4.8,418
+270,Sequence Climb,Missouri,Kansas City,NA,No,https://www.sequenceclimb.com/,18,65,5,95
+271,Upper Limits Indoor Rock Climbing Gym Chesterfield,Missouri,Chesterfield,NA,Yes,http://www.upperlimits.com/chesterfield/,20,64,4.8,279
+272,RoKC Underground Bouldering Gym,Missouri,Kansas City,NA,No,https://www.climbkc.com/underground,15,85,4.9,84
+273,Climb So iLL at the Steel Shop,Missouri,St Charles,NA,Yes,https://stcharles.climbsoill.com/,20,78,4.8,80
+274,Freestone Climbing Center,Montana,Missoula,NA,Yes,https://freestoneclimbing.com/,19,68,4.5,74
+275,Steepworld Climbing and Fitness,Montana,Billings,NA,Yes,https://steepworld.com/,17,59,4.8,129
+276,Spire Climbing and Fitness,Montana,Bozeman,18000,Yes,https://www.spireclimbingcenter.com/,19,76,4.7,98
+277,Stonetree Climbing Center,Montana,Helena,NA,No,https://www.stonetreeclimbing.com/,13,65,4.7,63
+278,The Hi-Line Climbing Center,Montana,Great Falls,NA,No,https://hilineclimbingcenter.com/,11,44,4.9,61
+279,RockFish Climbing and Fitness,Montana,Whitefish,12000,No,http://rockfishclimbing.com/,14,59,4.7,84
+280,Approach Climbing Gym,Nebraska,Omaha,6000,Yes,http://omaharockgym.com/,18,84,4.8,235
+281,Nevada Climbing Center,Nevada,Las Vegas,NA,Yes,https://www.nvclimbingcenter.com/,14,60,4.6,125
+282,Red Rock Climbing Center,Nevada,Las Vegas,8000,Yes,https://www.redrockclimbingcenter.com/,17,55,4.5,135
+283,The Pad Henderson,Nevada,Henderson,103000,Yes,https://www.thepadclimbing.org/origin-henderson-nv/,23,75,4.7,109
+284,BaseCamp Climbing Gym,Nevada,Reno,NA,Yes,http://basecampreno.com/,17,50,4.5,81
+285,The Refuge Climbing and Fitness,Nevada,Las Vegas,11000,Yes,http://climbrefuge.com/,17,55,4.6,236
+286,Mesa Rim Climbing Center,Nevada,Reno,23000,Yes,https://mesarim.com/reno/tour/#,22,80,4.7,110
+287,NH Climbing and Fitness,New Hampshire,Concord,16000,Yes,https://www.nhclimbinggym.com/,20,NA,4.7,116
+288,Vertical Dreams - Manchester,New Hampshire,Manchester,NA,Yes,https://verticaldreams.com/,15,50,4.6,145
+289,Indoor Ascent,New Hampshire,Dover,9000,Yes,http://www.indoorascent.com/,14,50,4.6,84
+290,Vertical Dreams - Nashua,New Hampshire,Nashua,NA,Yes,https://verticaldreams.com/locations/nashua/,15,50,4.6,110
+291,North Country Climbing Center,New Hampshire,Lisbon,NA,Yes,https://northcountryclimbing.com/climbing/,15,40,4.8,42
+292,New Jersey Rock Gym,New Jersey,Fairfield,12000,Yes,https://njrockgym.com/,20,70,4.7,292
+293,The Gravity Vault Hoboken,New Jersey,Hoboken,25000,Yes,https://gravityvault.com/locations/hoboken-nj,28,85,4.8,256
+294,The Gravity Vault Chatham,New Jersey,Chatham,13500,Yes,https://gravityvault.com/locations/chatham-nj,21,89,4.7,429
+295,The Gravity Vault Middletown,New Jersey,Middletown,14000,Yes,https://gravityvault.com/locations/middletown-nj,21,74.5,4.7,210
+296,The Gravity Vault Voorhees,New Jersey,Voorhees Township,17000,Yes,https://gravityvault.com/locations/voorhees-nj,21,74.5,4.8,120
+297,Garden State Rocks,New Jersey,Morganville,6000,Yes,http://gardenstaterocks.com/,18,70,4.5,99
+298,The Gravity Vault Upper Saddle River,New Jersey,Upper Saddle River,NA,Yes,https://gravityvault.com/locations/upper-saddle-river-nj,21,89,4.6,237
+299,The Gravity Vault Flemington,New Jersey,Flemington,17500,Yes,https://gravityvault.com/locations/flemington-nj,21,89,4.9,185
+300,Elite Climbing LLC,New Jersey,Maple Shade,NA,Yes,http://www.eliteclimbing.com/,NA,NA,4.8,72
+301,Randolph Climbing Center,New Jersey,Randolph,NA,Yes,https://randolphclimbingcenter.com/,15,60,4.8,135
+302,Gravity Vault Brick,New Jersey,Brick Township,16000,Yes,https://gravityvault.com/locations/brick-nj/,21,74.5,4.8,48
+303,Rockville Climbing Center,New Jersey,Hamilton Township,NA,Yes,https://www.rockvilleclimbing.com/,21,65,4.7,361
+304,High Exposure Rock Climbing,New Jersey,Northvale,26000,Yes,https://www.highexposureclimbing.com/,NA,NA,4.5,221
+305,Method Climbing,New Jersey,Newark,NA,Yes,https://methodclimb.com/,20,80,5,42
+306,,,,,,,,,,
